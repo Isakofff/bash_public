@@ -1,5 +1,4 @@
-#!/bin/bash
-
+#!/bin/sh
 #  Description:     To ban ip on continents
 #  Author:          Anton Isakov <ping115115@gmail.com>
 #  Date:            21.08.2017
@@ -27,4 +26,4 @@ echo
 echo "Ready for $BAN_CONT"
 echo
 
-exit 0
+exit

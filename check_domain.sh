@@ -1,6 +1,6 @@
-#!/bin/bash
+#!/bin/sh
 #  Description:     Check the domain dns info
-#  Author:          Anton Isakov <anton@isakov54.ru>
+#  Author:          Anton Isakov <ping115115@gmail.com>
 #  Date:            01.08.2014
 #  Script usage:    check_domain.sh example.com
 
@@ -76,4 +76,4 @@ echo
 echo
 
 
-exit 0
+exit
